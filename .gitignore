@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Telethon session files (contain login credentials - never commit these)
+*.session
+*.session-journal
+bot_session_*
+
+# Temp working directories created by the bot at runtime
+temp_files_linguascribe_bot/
+temp_audio_telethon_bot/
+
+# Secrets
+.env
+*.env
+
+# Colab / Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

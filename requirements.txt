@@ -1,0 +1,6 @@
+telethon
+google-generativeai
+python-dotenv
+nest_asyncio
+Pillow
+pydub
