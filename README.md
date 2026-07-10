@@ -1,5 +1,7 @@
 # LinguaScribe Bot 🎙️
 
+**[راهنمای کامل فارسی 🇮🇷 →](README.fa.md)**
+
 A Telegram bot that turns voice messages, audio files, and videos into
 accurate transcriptions, Persian translations, SRT subtitles, and detailed
 study-ready summaries — powered by Google's Gemini models.
